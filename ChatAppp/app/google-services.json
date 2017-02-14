@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "610278660464",
+    "firebase_url": "https://fir-singlevalue3-d5c4a.firebaseio.com",
+    "project_id": "fir-singlevalue3-d5c4a",
+    "storage_bucket": "fir-singlevalue3-d5c4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610278660464:android:6310801a86c10dba",
+        "android_client_info": {
+          "package_name": "com.example.qasimnawaz.chatappp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610278660464-2tg8udbk4e56jjc7cn92n957bg1l9s25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qasimnawaz.chatappp",
+            "certificate_hash": "70FA0B6D7DBA8DD9CF0965D20A799AF3655FCB21"
+          }
+        },
+        {
+          "client_id": "610278660464-ac38h0fkpralpvf7ijb53lm0m187nian.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW4iHDsf8IwP415PvLmIh4SCsS__xmXUU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610278660464-ac38h0fkpralpvf7ijb53lm0m187nian.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
